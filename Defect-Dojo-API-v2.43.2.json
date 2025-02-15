@@ -5550,8 +5550,7 @@
                 4,
                 5,
                 6,
-                7,
-                null
+                7
               ]
             },
             "description": "The date the finding was created inside DefectDojo.\n\n* `None` - Any date\n* `1` - Today\n* `2` - Past 7 days\n* `3` - Past 30 days\n* `4` - Past 90 days\n* `5` - Current month\n* `6` - Current year\n* `7` - Past year"
@@ -5597,8 +5596,7 @@
                 4,
                 5,
                 6,
-                7,
-                null
+                7
               ]
             },
             "description": "The date the flaw was discovered.\n\n* `None` - Any date\n* `1` - Today\n* `2` - Past 7 days\n* `3` - Past 30 days\n* `4` - Past 90 days\n* `5` - Current month\n* `6` - Current year\n* `7` - Past year"
@@ -5856,8 +5854,7 @@
                 4,
                 5,
                 6,
-                7,
-                null
+                7
               ]
             },
             "description": "The date the linked Jira issue was last modified.\n\n* `None` - Any date\n* `1` - Today\n* `2` - Past 7 days\n* `3` - Past 30 days\n* `4` - Past 90 days\n* `5` - Current month\n* `6` - Current year\n* `7` - Past year"
@@ -5876,8 +5873,7 @@
                 4,
                 5,
                 6,
-                7,
-                null
+                7
               ]
             },
             "description": "The date a Jira issue was created from this finding.\n\n* `None` - Any date\n* `1` - Today\n* `2` - Past 7 days\n* `3` - Past 30 days\n* `4` - Past 90 days\n* `5` - Current month\n* `6` - Current year\n* `7` - Past year"
@@ -5897,7 +5893,6 @@
                 5,
                 6,
                 7,
-                null
               ]
             },
             "description": "Provides the date the flaw was last 'touched' by a tester.\n\n* `None` - Any date\n* `1` - Today\n* `2` - Past 7 days\n* `3` - Past 30 days\n* `4` - Past 90 days\n* `5` - Current month\n* `6` - Current year\n* `7` - Past year"
@@ -5946,8 +5941,7 @@
                 4,
                 5,
                 6,
-                7,
-                null
+                7
               ]
             },
             "description": "Denotes if this flaw has been fixed by storing the date it was fixed.\n\n* `None` - Any date\n* `1` - Today\n* `2` - Past 7 days\n* `3` - Past 30 days\n* `4` - Past 90 days\n* `5` - Current month\n* `6` - Current year\n* `7` - Past year"
@@ -8051,8 +8045,7 @@
                 4,
                 5,
                 6,
-                7,
-                null
+                7
               ]
             },
             "description": "The date the finding was created inside DefectDojo.\n\n* `None` - Any date\n* `1` - Today\n* `2` - Past 7 days\n* `3` - Past 30 days\n* `4` - Past 90 days\n* `5` - Current month\n* `6` - Current year\n* `7` - Past year"
@@ -8098,8 +8091,7 @@
                 4,
                 5,
                 6,
-                7,
-                null
+                7
               ]
             },
             "description": "The date the flaw was discovered.\n\n* `None` - Any date\n* `1` - Today\n* `2` - Past 7 days\n* `3` - Past 30 days\n* `4` - Past 90 days\n* `5` - Current month\n* `6` - Current year\n* `7` - Past year"
@@ -8357,8 +8349,7 @@
                 4,
                 5,
                 6,
-                7,
-                null
+                7
               ]
             },
             "description": "The date the linked Jira issue was last modified.\n\n* `None` - Any date\n* `1` - Today\n* `2` - Past 7 days\n* `3` - Past 30 days\n* `4` - Past 90 days\n* `5` - Current month\n* `6` - Current year\n* `7` - Past year"
@@ -8377,8 +8368,7 @@
                 4,
                 5,
                 6,
-                7,
-                null
+                7
               ]
             },
             "description": "The date a Jira issue was created from this finding.\n\n* `None` - Any date\n* `1` - Today\n* `2` - Past 7 days\n* `3` - Past 30 days\n* `4` - Past 90 days\n* `5` - Current month\n* `6` - Current year\n* `7` - Past year"
@@ -8397,8 +8387,7 @@
                 4,
                 5,
                 6,
-                7,
-                null
+                7
               ]
             },
             "description": "Provides the date the flaw was last 'touched' by a tester.\n\n* `None` - Any date\n* `1` - Today\n* `2` - Past 7 days\n* `3` - Past 30 days\n* `4` - Past 90 days\n* `5` - Current month\n* `6` - Current year\n* `7` - Past year"
@@ -8447,8 +8436,7 @@
                 4,
                 5,
                 6,
-                7,
-                null
+                7
               ]
             },
             "description": "Denotes if this flaw has been fixed by storing the date it was fixed.\n\n* `None` - Any date\n* `1` - Today\n* `2` - Past 7 days\n* `3` - Past 30 days\n* `4` - Past 90 days\n* `5` - Current month\n* `6` - Current year\n* `7` - Past year"
@@ -17357,8 +17345,7 @@
                 4,
                 5,
                 6,
-                7,
-                null
+                7
               ]
             },
             "description": "* `None` - Any date\n* `1` - Today\n* `2` - Past 7 days\n* `3` - Past 30 days\n* `4` - Past 90 days\n* `5` - Current month\n* `6` - Current year\n* `7` - Past year"
@@ -17705,8 +17692,7 @@
                 4,
                 5,
                 6,
-                7,
-                null
+                7
               ]
             },
             "description": "* `None` - Any date\n* `1` - Today\n* `2` - Past 7 days\n* `3` - Past 30 days\n* `4` - Past 90 days\n* `5` - Current month\n* `6` - Current year\n* `7` - Past year"
@@ -26525,8 +26511,7 @@
             "enum": [
               "Basic",
               "NTLM",
-              "",
-              null
+              ""
             ],
             "type": "string",
             "description": "* `Basic` - Basic\n* `NTLM` - NTLM",
@@ -26709,8 +26694,7 @@
             "enum": [
               "Basic",
               "NTLM",
-              "",
-              null
+              ""
             ],
             "type": "string",
             "description": "* `Basic` - Basic\n* `NTLM` - NTLM",
@@ -26880,8 +26864,7 @@
             "enum": [
               "AzureAD",
               "Remote",
-              "",
-              null
+              ""
             ],
             "type": "string",
             "x-spec-enum-id": "fe57c2b04188fb94",
@@ -27026,8 +27009,7 @@
             "enum": [
               "AzureAD",
               "Remote",
-              "",
-              null
+              ""
             ],
             "type": "string",
             "x-spec-enum-id": "fe57c2b04188fb94",
@@ -27431,8 +27413,7 @@
               "Completed",
               "In Progress",
               "On Hold",
-              "Waiting for Resource",
-              null
+              "Waiting for Resource"
             ],
             "type": "string",
             "description": "* `Not Started` - Not Started\n* `Blocked` - Blocked\n* `Cancelled` - Cancelled\n* `Completed` - Completed\n* `In Progress` - In Progress\n* `On Hold` - On Hold\n* `Waiting for Resource` - Waiting for Resource",
@@ -27455,8 +27436,7 @@
           "engagement_type": {
             "enum": [
               "Interactive",
-              "CI/CD",
-              null
+              "CI/CD"
             ],
             "type": "string",
             "description": "* `Interactive` - Interactive\n* `CI/CD` - CI/CD",
@@ -27952,8 +27932,7 @@
               "Completed",
               "In Progress",
               "On Hold",
-              "Waiting for Resource",
-              null
+              "Waiting for Resource"
             ],
             "type": "string",
             "description": "* `Not Started` - Not Started\n* `Blocked` - Blocked\n* `Cancelled` - Cancelled\n* `Completed` - Completed\n* `In Progress` - In Progress\n* `On Hold` - On Hold\n* `Waiting for Resource` - Waiting for Resource",
@@ -27963,8 +27942,7 @@
           "engagement_type": {
             "enum": [
               "Interactive",
-              "CI/CD",
-              null
+              "CI/CD"
             ],
             "type": "string",
             "description": "* `Interactive` - Interactive\n* `CI/CD` - CI/CD",
@@ -29746,8 +29724,7 @@
           "engagement_type": {
             "enum": [
               "Interactive",
-              "CI/CD",
-              null
+              "CI/CD"
             ],
             "type": "string",
             "description": "* `Interactive` - Interactive\n* `CI/CD` - CI/CD",
@@ -35956,8 +35933,7 @@
             "enum": [
               "Basic",
               "NTLM",
-              "",
-              null
+              ""
             ],
             "type": "string",
             "description": "* `Basic` - Basic\n* `NTLM` - NTLM",
@@ -36028,8 +36004,7 @@
             "enum": [
               "AzureAD",
               "Remote",
-              "",
-              null
+              ""
             ],
             "type": "string",
             "x-spec-enum-id": "fe57c2b04188fb94",
@@ -36243,8 +36218,7 @@
               "Completed",
               "In Progress",
               "On Hold",
-              "Waiting for Resource",
-              null
+              "Waiting for Resource"
             ],
             "type": "string",
             "description": "* `Not Started` - Not Started\n* `Blocked` - Blocked\n* `Cancelled` - Cancelled\n* `Completed` - Completed\n* `In Progress` - In Progress\n* `On Hold` - On Hold\n* `Waiting for Resource` - Waiting for Resource",
@@ -36254,8 +36228,7 @@
           "engagement_type": {
             "enum": [
               "Interactive",
-              "CI/CD",
-              null
+              "CI/CD"
             ],
             "type": "string",
             "description": "* `Interactive` - Interactive\n* `CI/CD` - CI/CD",
@@ -37567,8 +37540,7 @@
               "low",
               "very low",
               "none",
-              "",
-              null
+              ""
             ],
             "type": "string",
             "description": "* `very high` - Very High\n* `high` - High\n* `medium` - Medium\n* `low` - Low\n* `very low` - Very Low\n* `none` - None",
@@ -37582,8 +37554,7 @@
               "iot",
               "mobile",
               "web",
-              "",
-              null
+              ""
             ],
             "type": "string",
             "description": "* `web service` - API\n* `desktop` - Desktop\n* `iot` - Internet of Things\n* `mobile` - Mobile\n* `web` - Web",
@@ -37595,8 +37566,7 @@
               "construction",
               "production",
               "retirement",
-              "",
-              null
+              ""
             ],
             "type": "string",
             "description": "* `construction` - Construction\n* `production` - Production\n* `retirement` - Retirement",
@@ -37611,8 +37581,7 @@
               "internal",
               "open source",
               "outsourced",
-              "",
-              null
+              ""
             ],
             "type": "string",
             "description": "* `third party library` - Third Party Library\n* `purchased` - Purchased\n* `contractor` - Contractor Developed\n* `internal` - Internally Developed\n* `open source` - Open Source\n* `outsourced` - Outsourced",
@@ -38002,8 +37971,7 @@
               "Medium",
               "Low",
               "Info",
-              "",
-              null
+              ""
             ],
             "type": "string",
             "description": "* `Critical` - Critical\n* `High` - High\n* `Medium` - Medium\n* `Low` - Low\n* `Info` - Info",
@@ -39131,8 +39099,7 @@
               "API",
               "Password",
               "SSH",
-              "",
-              null
+              ""
             ],
             "type": "string",
             "description": "* `API` - API Key\n* `Password` - Username/Password\n* `SSH` - SSH",
@@ -39390,8 +39357,7 @@
               "low",
               "very low",
               "none",
-              "",
-              null
+              ""
             ],
             "type": "string",
             "description": "* `very high` - Very High\n* `high` - High\n* `medium` - Medium\n* `low` - Low\n* `very low` - Very Low\n* `none` - None",
@@ -39405,8 +39371,7 @@
               "iot",
               "mobile",
               "web",
-              "",
-              null
+              ""
             ],
             "type": "string",
             "description": "* `web service` - API\n* `desktop` - Desktop\n* `iot` - Internet of Things\n* `mobile` - Mobile\n* `web` - Web",
@@ -39418,8 +39383,7 @@
               "construction",
               "production",
               "retirement",
-              "",
-              null
+              ""
             ],
             "type": "string",
             "description": "* `construction` - Construction\n* `production` - Production\n* `retirement` - Retirement",
@@ -39434,8 +39398,7 @@
               "internal",
               "open source",
               "outsourced",
-              "",
-              null
+              ""
             ],
             "type": "string",
             "description": "* `third party library` - Third Party Library\n* `purchased` - Purchased\n* `contractor` - Contractor Developed\n* `internal` - Internally Developed\n* `open source` - Open Source\n* `outsourced` - Outsourced",
@@ -39885,8 +39848,7 @@
               "low",
               "very low",
               "none",
-              "",
-              null
+              ""
             ],
             "type": "string",
             "description": "* `very high` - Very High\n* `high` - High\n* `medium` - Medium\n* `low` - Low\n* `very low` - Very Low\n* `none` - None",
@@ -39900,8 +39862,7 @@
               "iot",
               "mobile",
               "web",
-              "",
-              null
+              ""
             ],
             "type": "string",
             "description": "* `web service` - API\n* `desktop` - Desktop\n* `iot` - Internet of Things\n* `mobile` - Mobile\n* `web` - Web",
@@ -39913,8 +39874,7 @@
               "construction",
               "production",
               "retirement",
-              "",
-              null
+              ""
             ],
             "type": "string",
             "description": "* `construction` - Construction\n* `production` - Production\n* `retirement` - Retirement",
@@ -39929,8 +39889,7 @@
               "internal",
               "open source",
               "outsourced",
-              "",
-              null
+              ""
             ],
             "type": "string",
             "description": "* `third party library` - Third Party Library\n* `purchased` - Purchased\n* `contractor` - Contractor Developed\n* `internal` - Internally Developed\n* `open source` - Open Source\n* `outsourced` - Outsourced",
@@ -42278,8 +42237,7 @@
               "Medium",
               "Low",
               "Info",
-              "",
-              null
+              ""
             ],
             "type": "string",
             "description": "* `Critical` - Critical\n* `High` - High\n* `Medium` - Medium\n* `Low` - Low\n* `Info` - Info",
@@ -43285,8 +43243,7 @@
               "Medium",
               "Low",
               "Info",
-              "",
-              null
+              ""
             ],
             "type": "string",
             "description": "* `Critical` - Critical\n* `High` - High\n* `Medium` - Medium\n* `Low` - Low\n* `Info` - Info",
@@ -44743,8 +44700,7 @@
               "C",
               "R",
               "U",
-              "",
-              null
+              ""
             ],
             "type": "string",
             "description": "* `N` - created\n* `C` - closed\n* `R` - reactivated\n* `U` - left untouched",
@@ -44777,8 +44733,7 @@
               "C",
               "R",
               "U",
-              "",
-              null
+              ""
             ],
             "type": "string",
             "description": "* `N` - created\n* `C` - closed\n* `R` - reactivated\n* `U` - left untouched",
@@ -45033,8 +44988,7 @@
               "API",
               "Password",
               "SSH",
-              "",
-              null
+              ""
             ],
             "type": "string",
             "description": "* `API` - API Key\n* `Password` - Username/Password\n* `SSH` - SSH",
@@ -45103,8 +45057,7 @@
               "API",
               "Password",
               "SSH",
-              "",
-              null
+              ""
             ],
             "type": "string",
             "description": "* `API` - API Key\n* `Password` - Username/Password\n* `SSH` - SSH",

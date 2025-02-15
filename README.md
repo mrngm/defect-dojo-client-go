@@ -54,7 +54,8 @@ if apiResp.StatusCode() == 201 {
 To build the client, run:
 
 ```bash
-$ oapi-codegen Defect-Dojo-API-v2.x.x.json > defectdojo.gen.go
+go install github.com/oapi-codegen/oapi-codegen/v2/cmd/oapi-codegen@latest
+oapi-codegen -generate 'types,client,spec' -package 'defectDojoAPIV2' -o defectdojo.gen.go Defect-Dojo-API-v2.43.2.json
 ```
 
 ## Contributing
