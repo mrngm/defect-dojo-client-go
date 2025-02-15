@@ -1,4 +1,4 @@
-module github.com/doximity/defect-dojo-client-go/v2
+module github.com/doximity/defect-dojo-client-go
 
 go 1.23
 
